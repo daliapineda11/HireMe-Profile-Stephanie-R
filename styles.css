@@ -1,0 +1,22 @@
+h1 { color: pink;}
+h3{color: purple;}
+p{color:blue;}
+
+body{
+    background: url("https://cdn.crispedge.com/d5b6d4.webp");
+}
+
+.colors {color: white; 
+                 }
+
+h1 {
+    text-align: center;
+    font-family: Helvetica;
+}
+ul {
+    font-family: 'Oswald', sans-serif;
+}
+p{
+    text-align : center;
+ font-family: Courier New ;
+}
