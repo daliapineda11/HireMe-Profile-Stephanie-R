@@ -1,1 +1,0 @@
-# HireMe-Profile-Stephanie-R
